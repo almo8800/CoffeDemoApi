@@ -1,1 +1,47 @@
-
+[
+    {
+        "id":1,
+        "name":"Эспрессо",
+        "description":"Один шот эспрессо",
+        "imageUrl":"https://raw.githubusercontent.com/almo8800/CoffeDemoApi/main/espresso.png",
+        "duration": "2",
+        "volume": "50",
+        "price": "120"
+    },
+    {
+        "id":2,
+        "name":"Двойной Эспрессо",
+        "description":"Двойной шот эспрессо",
+        "imageUrl":"https://raw.githubusercontent.com/almo8800/CoffeDemoApi/main/doubleEspresso.png",
+        "duration": "3",
+        "volume": "100",
+        "price": "150"
+    },
+    {
+        "id":3,
+        "name":"Капучино",
+        "description":"Шот эспрессо, смешанный с молоком и воздушной пенкой.",
+        "imageUrl":"https://raw.githubusercontent.com/almo8800/CoffeDemoApi/main/capuccino.png",
+        "duration": "4",
+        "volume": "180",
+        "price": "180"
+    },
+    {
+        "id":4,
+        "name":"Латте",
+        "description":"Шот эспрессо, смешанный с молоком. Соотношение молока больше чем в капучино",
+        "imageUrl":"https://raw.githubusercontent.com/almo8800/CoffeDemoApi/main/latte.png",
+        "duration": "4",
+        "volume": "200",
+        "price": "200"
+    },
+    {
+        "id":5,
+        "name":"Флет Вайт",
+        "description":"Как капучино, но с двойным шотом",
+        "imageUrl":"https://raw.githubusercontent.com/almo8800/CoffeDemoApi/main/flatWhite.png",
+        "duration": "5",
+        "volume": "200",
+        "price": "200"
+    }
+]
